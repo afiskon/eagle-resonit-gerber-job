@@ -12,7 +12,7 @@ Usage:
 5. File -> Open -> Job...;
 6. Open rezonit\_gerber.cam;
 7. Click on "Process Job" button;
-8. If asked "Layer 'Holes' is active but, but layer 'Drills' is not active! Is
+8. If asked "Layer 'Holes' is active, but layer 'Drills' is not active! Is
 it OK?" click "Yes";
 9. Archive rezonit\_gerber folder and upload the archive to rezonit.ru;
 
